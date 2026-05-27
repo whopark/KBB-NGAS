@@ -1,0 +1,6 @@
+{
+  "name": "KBB-NGAS",
+  "description": "Next-Generation Sequencing Clinical Analysis and Variant Interpretation Workspace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
